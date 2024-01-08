@@ -9,7 +9,7 @@ import {
 export default function Header() {
   return (
     <div>
-       <MDBNavbar light bgColor='success'>
+       <MDBNavbar light bgColor='Secondary'>
         <MDBContainer fluid>
           <MDBNavbarBrand href='/'>
             <img
